@@ -1,1 +1,3 @@
 Nombre: Laura Gómez
+Email: laura.gomez@gmail.com
+Contraseña: ClaveSegura2026
